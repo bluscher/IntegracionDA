@@ -1,0 +1,4 @@
+Error\ \ \ \ \ \ 	JS0003 	September 11, 2018 4:37:05 PM ART
+Message 	Strategy "DEMO" not found
+Thread 	main	Alias 	DEMO
+
